@@ -1,5 +1,6 @@
-# Ciencias Politicas, Organización del Estado y Política Monetaria
+# Organización del Estado y Política Monetaria
 
+Presentación para la exposición de Ciencias Politicas del 9 y 10 de Mayo del 2013
 by @JosueDanielBust
 
 ---
